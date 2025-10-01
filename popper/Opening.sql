@@ -1,1 +1,0 @@
---- Opening SQL Script ---
