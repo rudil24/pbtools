@@ -11,8 +11,10 @@ Don't miss my **PlayLists Home** sql query, it's a game-changer for your daily p
       * in the Settings tab, "Active SQL Command" window, paste the appropriate script
       * **be sure to check** the "Playlist is Active SQL Query" checkbox 
       * **be sure to hit the `Save Changes` button** below the playlist parameters
+      ![Pinup Popper PlayListSetup screen](../images/PlayListSetup.png)
     * you can test the logic by going to the "ActiveList" tab in the playlist config screen, and repeatedly hitting the `Refresh ActiveSQL` button, which should give you six random games that meet your script logic, each time
-![Pinup Popper PlayListSetup screen](../images/PlayListSetup.png)
+    ![Pinup Popper PlayListSetup screen, ActiveSQL Tab](../images/PlayListSetupActiveSQL.png)
+
 
 ## Additional details about popper db fields:
   * `GameRating` can be any whole number! The UI tries to talk you into rating tables on a 1-5 scale, but DON'T FALL FOR IT! I utilize a 4-digit rating (I have more than 1,000 tables) So I know i can rate every table uniquely so they sort from first to worst very well, but also in bands that query well. For example my highest rated table is Flupper's TOTAN at 9698, and all of the tables I think are 5-star are rated over 9500, next tier > 9000, etc. So I can grab my "5 star" games just by querying `GameRating >= 9500`, BUT I can also keep a fluid list of my "Top 50" in any category just by sorting `ORDER BY GameRating DESC LIMIT 50`. You can't do that if you have 132 games all smushed together with a GameRating of 5.
