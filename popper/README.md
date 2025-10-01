@@ -1,8 +1,16 @@
-## rudil24's Pinup Popper SQLite active playlist scripts
-If you use one thing from this directory, don't miss my Six Pack query, it's a game-changer for your daily play. **BUT** be sure to get your fields populated first according to the tips below.
+# rudil24's Pinup Popper SQLite active playlist scripts
+Don't miss my Six Pack query, it's a game-changer for your daily play. **BUT** be sure to get your fields populated first according to the tips below.
 
 ## How to Use
-1. Good queries require good data. Before using my queries, you'll need to make sure you are utilizing certain fields for each table. Here are the fields in Popper that I exploit to the fullest. You're welcome to grab a copy of my puplookup.csv as a working example of this, and meld it to your own puplookup.csv so you can quickly populate these fields in your db.
+1. Good queries require good data. Before using my queries, you'll need to make sure you are utilizing certain fields for each table. Here are the fields in Popper that I exploit to the fullest: `GameRating`, `GameType`, `Tags`, `Category`, `GameTheme`. You're welcome to grab a copy of my [puplookup.csv](puplookup.csv) as a working example of this, and meld it to your own puplookup.csv so you can quickly populate these fields in your db.
+
+2. I've organized the queries into the same hierarchy I use in the Popper setup.
+    * go to the tab in popper
+    * select new list
+    * populate it with the script
+    * make sure to click use query
+
+## Additional details about popper db fields:
   * `GameRating` can be any whole number! The UI tries to talk you into rating tables on a 1-5 scale, but DON'T FALL FOR IT! I utilize a 4-digit rating (I have more than 1,000 tables) So I know i can rate every table uniquely so they sort from first to worst very well, but also in bands that query well. For example my highest rated table is Flupper's TOTAN at 9698, and all of the tables I think are 5-star are rated over 9500, next tier > 9000, etc. So I can grab my "5 star" games just by querying `GameRating >= 9500`, BUT I can also keep a fluid list of my "Top 50" in any category just by sorting `ORDER BY GameRating DESC LIMIT 50`. You can't do that if you have 132 games all smushed together with a GameRating of 5.
   * `GameType` can hold more than just EM, SS. I have more categories because i think dot matrix display era games look & feel different than alphanumeric display games which are different from simple SS numerics, which are very different from EM's, and there's even pinball/raster hybrid games like Granny and Baby Pac *(oh devs please get that one working again for 10.8.x!)*.  So i have all those categories for GameType: `EM, SS, SS alpha, SS dmd, SS hybrid` and it helps me pick out things better.
   * `Tags` are very powerful, you can use any amount of labels, separated with commas, and add new tags to any table as you go. I use `PuP` to tag games with PupPacks, `Music` for games with music, and a `dup` tag for games that are duplicates (lower rated alternate versions of a particular table,) which helps me keep a clean inventory and always put the best table version forward for most of my queries.
@@ -12,10 +20,3 @@ If you use one thing from this directory, don't miss my Six Pack query, it's a g
   * `GKeepDisplays` is a little-known field that can load with your puplookup.csv and is a huge timesaver when you cut/paste or use logic in a google sheet to build your puplookup.csv. For example `0,1,5` in this field is my go-to for EM games, that will keep whatever media you stored in your Topper, DMD slot, and Full DMD slot going as you play the game. But `0,5` makes more sense for a lot of the SS alpha and the games where HauntFreaks has put out an incredible backglass with a separate dmd for the LEDs. 
     * In a standard Popper setup, `0` is your topper screen id, `1` is your dmd, `5` is your menu / fulldmd
     * The field also supports `-1` for nailbuster's recommendation of clearing all front-end screens when playing PuPPack games.
-
-
-2. I've organized the queries into the same hierarchy I use in the Popper setup.
-  * go to the tab in popper
-  * select new list
-  * populate it with the script
-  * make sure to click use query
