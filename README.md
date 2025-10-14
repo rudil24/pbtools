@@ -5,14 +5,14 @@ My collection of tools (mainly code snippets) that come in clutch for scripting 
 * for [Pinup Popper](https://www.nailbuster.com/wikipinup/doku.php?id=start): the essential VPX database and front-end for organization and retrieval of your locally stored VPX tables, built by [nailbuster](https://github.com/nailbuster). 
 
 ## [![folder](images/folder_24dp_A7C4E5_FILL0_wght400_GRAD0_opsz24.png)](vpx) [vpx](vpx) 
-VBScript snippets for: 
+Contains VBScript snippets for: 
 * controlling ROM volume
   * In early VPX 10.1-6 releases you could use F12 to control ROM volume, but now F12 opens the much more robust in-game menu. So how can you adjust rom volume? Right in the table script!
   * Did you also know as of Vpinmame 3.6 you can RAISE rom volume over the 0 db limit as well as lower it? A huge impact for quiet ROMs like *Time Machine (Data East 1988)* and *Torpedo Alley (Data East 1988)*  
 * adding your own Music playlists (random and sequential, with start and stop capability from your magnasave buttons) to your favorite tables. <br>*Credit to original authors given in the snippets, where applicable*.
 
 ## [![folder](images/folder_24dp_A7C4E5_FILL0_wght400_GRAD0_opsz24.png)](popper) [popper](popper) 
-SQLite scripts and instructions for building active (dynamically built) playlists in Pinup Popper. With active playlists and better utilization of fields in your popper database, you can create amazing playlists like "give me a random playlist of 1 electromagnetic era (EM) table, 1 solid state (SS) table, and 1 modern DMD-era table that are all in my top 50 tables within those respective categories."
+Contains SQLite scripts and instructions for building active (dynamically built) playlists in Pinup Popper. With active playlists and better utilization of fields in your popper database, you can create amazing playlists like "give me a random playlist of 1 electromagnetic era (EM) table, 1 solid state (SS) table, and 1 modern DMD-era table that are all in my top 50 tables within those respective categories."
 
 ## other cool pinball tools
 * [Open Source virtual pinball resources](https://github.com/francisdb/oss-virtual-pinball) from [francisdb](https://github.com/francisdb)<br>A great collection of other utility builders for VPX on Github.
