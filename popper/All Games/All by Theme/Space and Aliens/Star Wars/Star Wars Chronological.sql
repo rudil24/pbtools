@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE VISIBLE=1 AND GameTheme = "Outer Space" AND GameDisplay like 'Star Wars%'  and Tags NOT like "%dup2%" ORDER BY GameDisplay

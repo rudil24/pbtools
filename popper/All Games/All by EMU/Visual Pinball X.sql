@@ -1,0 +1,1 @@
+Select * from Games where EMUID=1 AND visible=1 Order BY GameRating DESC

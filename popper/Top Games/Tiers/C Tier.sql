@@ -1,0 +1,5 @@
+  SELECT * FROM Games 
+  WHERE Visible=1
+  AND Tags NOT like '%dup%'
+  AND GameRating BETWEEN 6500 AND 6999
+  ORDER BY GameRating DESC

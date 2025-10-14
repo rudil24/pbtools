@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE VISIBLE=1 AND GameTheme = "Outer Space" AND GameDisplay like 'Star Trek%'  and Tags NOT like "%dup2%" ORDER BY GameYear ASC, GameRating DESC

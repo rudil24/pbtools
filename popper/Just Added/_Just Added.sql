@@ -1,0 +1,1 @@
+Select * from Games where visible=1 order by dateAdded DESC LIMIT(15) 

@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE VISIBLE=1 AND Manufact="Stern" AND GameName like '%NFL%' ORDER BY GameDisplay

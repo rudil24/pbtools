@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE Visible=1 AND Tags like "%Odd%" Order By GameRating DESC

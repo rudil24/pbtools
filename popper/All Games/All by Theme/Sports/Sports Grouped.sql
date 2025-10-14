@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE VISIBLE=1 AND GameTheme LIKE "Sports%"  and GameTheme NOT LIKE "%Motor%" and Tags NOT like "%dup2%" ORDER BY Custom5 ASC, GameRating DESC

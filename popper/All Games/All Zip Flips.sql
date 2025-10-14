@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE Visible=1 AND Tags like "%Zip%" Order By GameRating DESC

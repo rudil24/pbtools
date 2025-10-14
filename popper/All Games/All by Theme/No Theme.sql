@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE VISIBLE=1 AND GameTheme is null ORDER BY GameDisplay

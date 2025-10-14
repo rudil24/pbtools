@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE VISIBLE=1 AND GameTheme like "%Games%" and Tags NOT like "%dup2%" ORDER BY GameRating DESC

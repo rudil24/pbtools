@@ -1,0 +1,1 @@
+SELECT * FROM Games WHERE Visible=1 AND (EMUID="3" or EMUID="6") AND Tags NOT like "%dup2%" Order By GameRating DESC
