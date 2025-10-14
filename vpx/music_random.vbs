@@ -1,15 +1,15 @@
 'make sure the following 2 lines are at the top of your script:
-Option explicit		'not sure what this does
-Randomize		      'i think this resets the seed for better use of Rnd function?
+Option explicit     'mandates the explicit declaration of all variables before they are used
+Randomize           'initializes the random number generator, ensuring that subsequent calls to the Rnd function 
+                    'produce a different, unpredictable sequence of numbers each time the script is run. 
 
-'After table init, which USUALLY ends something like this…
+'Insert the scripts below AFTER the table is initialized, which USUALLY ends something like this…
   'Sub table1_Paused:Controller.Pause = 1:End Sub
   'Sub table1_unPaused:Controller.Pause = 0:End Sub
   'Sub table1_exit:Controller.stop:End Sub
 
 'rudil24 A
 'Start the music
-
 MusicOn
 ' PlayMusic "Folder\Song.mp3"  'rudil24 THIS LINE IS OPTIONAL - only if you want that song at table startup
 Sub MusicOn
@@ -19,7 +19,7 @@ Sub MusicOn
 ' Just paste your music files in C:\Visual Pinball\Music\<myMusicFolder> as defined below
 ' supposing C:\Visual Pinball is your VP software installation directory
     Dim FileSystemObject, folder, r, ct, file, musicPath, myMusicFolder
-    myMusicFolder = "CosmicGunfight" ' the directory name where your mp3 files are stored, must be a subfolder of Visual Pinball\music
+    myMusicFolder = "CosmicGunfight" 'the directory name where your mp3 files are stored, must be a subfolder of Visual Pinball\music
     Set FileSystemObject = CreateObject("Scripting.FileSystemObject")
     musicPath = FileSystemObject.GetAbsolutePathName(".") ' get path to Visual Pinball\table
     musicPath = Left(musicPath, Len(musicPath) - 6) + "music\" 'get path to Visual Pinball\music
@@ -69,6 +69,6 @@ Sub table1_KeyDown(ByVal Keycode)
     End If
 
 
-' and if you want, you can lock first song in for every time game starts:
+' and if you want, you can lock first song in for every time game starts (filename below is just an example, specify path from your Music folder):
 	If KeyCode = StartGameKey Then PlayMusic "EM\Stones\RS01_TrackAlt.mp3" 
 

@@ -1,8 +1,8 @@
 # pbtools
 
-My collection of tools (mainly code snippets) that come in clutch for scripting and custom configurations in:
-* [Visual Pinball 10 (VPX)](https://github.com/vpinball/vpinball/releases): the incredible pinball hobbyist application from the incomparable [vpinball](https://github.com/vpinball) team.
-* [Pinup Popper](https://www.nailbuster.com/wikipinup/doku.php?id=start): the essential VPX database and front-end for organization and retrieval of your locally stored VPX tables, built by [nailbuster](https://github.com/nailbuster). 
+My collection of tools (mainly code snippets) that come in clutch for scripting and custom configurations:
+* for [Visual Pinball 10 (VPX)](https://github.com/vpinball/vpinball/releases): the incredible pinball hobbyist application from the incomparable [vpinball](https://github.com/vpinball) team.
+* for [Pinup Popper](https://www.nailbuster.com/wikipinup/doku.php?id=start): the essential VPX database and front-end for organization and retrieval of your locally stored VPX tables, built by [nailbuster](https://github.com/nailbuster). 
 
 ## [![folder](images/folder_24dp_A7C4E5_FILL0_wght400_GRAD0_opsz24.png)](vpx) [vpx](vpx) 
 VBScript snippets for: 
