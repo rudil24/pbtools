@@ -1,1 +1,7 @@
-SELECT * FROM Games WHERE VISIBLE=1 AND GameTheme LIKE "Sports%"  and GameTheme NOT LIKE "%Motor%" and Tags NOT like "%dup2%" ORDER BY GameRating DESC
+SELECT * FROM Games 
+  WHERE Visible=1 
+  AND GameTheme LIKE "Sports%" 
+  AND GameTheme NOT LIKE "%Motor%" 
+  AND Tags NOT like "%dup2%" 
+ORDER BY GameRating DESC
+-- end of script

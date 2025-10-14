@@ -1,5 +1,6 @@
-  SELECT * FROM Games 
+SELECT * FROM Games 
   WHERE Visible=1
   AND Tags NOT like '%dup%'
   AND GameRating BETWEEN 7000 AND 7499
-  ORDER BY GameRating DESC
+ORDER BY GameRating DESC
+-- end of script

@@ -1,1 +1,7 @@
-SELECT * FROM Games WHERE VISIBLE=1 AND GameTheme = "Outer Space" AND GameDisplay like 'Star Wars%'  and Tags NOT like "%dup2%" ORDER BY GameDisplay
+SELECT * FROM Games 
+  WHERE Visible=1 
+  AND GameTheme = "Outer Space" 
+  AND GameDisplay like 'Star Wars%'
+  AND Tags NOT like "%dup2%" 
+ORDER BY GameDisplay
+-- end of script

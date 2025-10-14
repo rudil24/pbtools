@@ -1,2 +1,6 @@
-Select * from Games WHERE VISIBLE=1 AND Tags like "%Music%" and TAGS NOT like "%dup%"
-order by GameRating DESC
+SELECT * FROM Games 
+  WHERE Visible=1 
+  AND Tags like "%Music%" 
+  AND TAGS NOT like "%dup%"
+ORDER BY GameRating DESC
+-- end of script

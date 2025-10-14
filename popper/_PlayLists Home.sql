@@ -1,7 +1,7 @@
 /* COMMENTS:
- PlayLists Home (MediaName: pl_home) is the opening screen of Popper. This script serves a 
- "SIX PACK" of random tables: one TOP 25 GameRating table from each of six categories: 
- DMD PuP, DMD non-PuP, SS alpha, SS, EM, and Original (non-vendor) tables.
+  PlayLists Home (MediaName: pl_home) is the opening screen of Popper. This script serves a 
+  "SIX PACK" of random tables: one TOP 25 GameRating table from each of six categories: 
+  DMD PuP, DMD non-PuP, SS alpha, SS, EM, and Original (non-vendor) tables.
 */
 SELECT * FROM (
     SELECT * FROM (
@@ -98,4 +98,4 @@ SELECT * FROM (
     ORDER BY RANDOM()
     LIMIT 1
 );
--- End of PlayLists Home (pl_home) SQL
+-- end of script

@@ -1,3 +1,7 @@
+/* COMMENTS: This script selects six highly rated games to create a "Six Pack" of diverse games. 
+Much like my opening Playlist Home, this one picks a random game from all six of my categories, each game with at least 8000 rating, 
+instead of just the top 25.
+*/
 SELECT * FROM (
  SELECT * FROM (
   SELECT * FROM Games 
@@ -68,5 +72,5 @@ SELECT * FROM (
   AND GameRating >= 8000
   ORDER by GameRating DESC)
   ORDER BY RANDOM() LIMIT 1
-)
-
+);
+-- end of script

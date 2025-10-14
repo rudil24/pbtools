@@ -1,4 +1,5 @@
-/* COMMENTS: All Zen Studios games (FX3 and PinballFX) denoted by their EMUIDs
+/* COMMENTS: 
+  All Zen Studios games (FX3 and PinballFX) denoted by their EMUIDs (FX3=3, PinballFX=6)
 */
 SELECT * FROM Games 
   WHERE Visible=1 

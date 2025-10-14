@@ -1,18 +1,18 @@
 # rudil24's Pinup Popper SQLite active playlist scripts
-Don't miss my **PlayLists Home** sql query, it's a game-changer for your daily play. **BUT** be sure to get your fields populated first according to the tips below.
+Don't miss my [_PlayLists Home.sql](PlayLists%20Home.sql) script! It's a game-changer for your daily play. **BUT** be sure to get your fields populated first according to the tips below.
 
 ## How to Use
 1. Good queries require good data. Before using my queries, you'll need to make sure you are utilizing certain fields for each table. Here are the fields in Popper that I exploit to the fullest: `GameRating`, `GameType`, `Tags`, `Category`, `GameTheme`. You're welcome to grab a copy of my [puplookup.csv](puplookup.csv) as a working example of this, and meld it to your own puplookup.csv so you can quickly populate these fields in your db.
 
    <img align="right" width="60%" height="60%" alt="Pinup Popper PlayListSetup screen" src="../images/PlayListSetup.png">
-2. I've organized the queries into the same hierarchy I use in the Popper setup. So to add the script logic to your playlist:
+2. I've organized the queries into the same hierarchy I use in the Popper setup. Popper doesn't have folders, just nested playlists, so to emulate that in GitHub i've made folders, with the first sql file in the folder being underscore then same name as folder. That's the playlist you want to nest all the other playlists under in that directory. If there is NOT a _<foldername>.sql file in a particular folder, it means that playlist doesn't have SQL logic (e.g.: "All Games"), it just acts as a placeholder so that it receives a menu disc to the playlist above it. To add playlists and activate script logic in your playlists:
     * from Popper Setup Main Menu, click the 2nd button down: `Playlist Config`
     * the PlayListSetup screen will open (pictured)
       * <right click> in the left viewpane, "add playlist", name your playlist
-      * in the Settings tab, "Active SQL Command" window, paste the appropriate script
+      * in the Settings tab, "Active SQL Command" window, **paste the appropriate script or your own variation from my helpful starter scripts**
       * **be sure to check** the "Playlist is Active SQL Query" checkbox 
       * **be sure to hit the `Save Changes` button** below the playlist parameters
-    * you can test the logic by going to the "ActiveList" tab in the playlist config screen, and repeatedly hitting the `Refresh ActiveSQL` button, which should give you six random games that meet your script logic, each time.
+    * you can test the logic by going to the "ActiveList" tab in the playlist config screen, and repeatedly hitting the `Refresh ActiveSQL` button, which for example with my top level **PlayLists Home** script should give you six random games that meet your script logic, each time you press.
 <img align="right" width="60%" height="60%" alt="Pinup Popper PlayListSetup screen, ActiveSQL Tab" src="../images/PlayListSetupActiveSQLTab.png">
 
 ## Additional details about popper db fields:

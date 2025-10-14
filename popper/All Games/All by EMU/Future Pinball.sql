@@ -1,1 +1,4 @@
-Select * from Games where EMUID=4 AND visible=1 Order BY GameRating DESC
+SELECT * FROM Games 
+  WHERE EMUID=4 AND Visible=1 
+ORDER BY GameRating DESC
+-- end of script

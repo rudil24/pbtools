@@ -1,2 +1,4 @@
-Select * from Games WHERE VISIBLE=1
-order by GameYear, GameDisplay
+SELECT * FROM Games 
+  WHERE Visible=1
+ORDER BY GameYear, GameDisplay
+-- end of script
