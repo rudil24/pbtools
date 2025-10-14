@@ -1,5 +1,5 @@
 # rudil24's Pinup Popper SQLite active playlist scripts
-Don't miss my [_PlayLists Home.sql](PlayLists%20Home.sql) script! It's a game-changer for your daily play. **BUT** be sure to get your fields populated first according to the tips below.
+Don't miss my [_PlayLists Home.sql](_PlayLists%20Home.sql) script! It's a game-changer for your daily play. **BUT** be sure to get your fields populated first according to the tips below.
 
 ## How to Use
 1. Good queries require good data. Before using my queries, you'll need to make sure you are utilizing certain fields for each table. Here are the fields in Popper that I exploit to the fullest: `GameRating`, `GameType`, `Tags`, `Category`, `GameTheme`. You're welcome to grab a copy of my [puplookup.csv](puplookup.csv) as a working example of this, and meld it to your own puplookup.csv so you can quickly populate these fields in your db.
