@@ -1,1 +1,3 @@
-Select * from Games where visible=1 order by dateAdded DESC LIMIT(15) 
+Select * FROM Games 
+  WHERE visible=1 
+ORDER BY dateAdded DESC LIMIT(15) 
