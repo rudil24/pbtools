@@ -14,3 +14,8 @@
 # Denote binary files that should not be modified.
 *.png binary
 *.jpg binary
+
+# Tell GitHub Linguist to include SQL files in Language stats
+*.sql linguist-language=SQL
+*.sql linguist-detectable=true
+
