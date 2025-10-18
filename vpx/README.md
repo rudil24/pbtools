@@ -37,7 +37,20 @@ Rocking out while playing your pinball tables is the best. The script snippets i
 | Pinball Pool -Deluxe- (Gottlieb 1979) | Loverboy i dunno why it just fits the timing of the table |
 | Spirit of 76 (Gottlieb 1975) | EMUnderdogs fabulous upgrade of this table just deserved Hamilton tracks |
 | Capt. Fantastic and The Brown Dirt Cowboy (Bally 1976) | My list of period Elton John pieces |
-| Faces (Sonic 1976) | really cool pairing with The Fixx if you can find it anywhere. i have the old CD's ripped |
+| Faces (Sonic 1976) | really cool pairing with The Fixx (starting with "Lose Face") if you can find it anywhere. i have the old CD's ripped |
+| Surf Champ (Gottlieb 1976) | Beach Boys duh |
+| Fireball Classic (Bally 1985) | Judas Priest Screaming for Vengeance Any excuse for JP is a good one |
+| Ramones (Original 2021) | as provided with table |
+| Jive Time (Williams 1970) | big RPJ fan so this table is super fun, use this as your menu media too |
+| T.K.O. | boxing movie classics |
+| Beat Time -Beatles Mod- | classic Beatles tracks |
+| Space Time (Ballly 1972) | screams Boston to me, especially that third album that seemed to take forever to 16 year old me but was really just 5 years |
+| Roller Disco | my disco playlist |
+| Cabaret | good ol frank and the other dude |
+| BMX -RAD Edition- | as provided with table |
+| Earth Wind Fire (Zaccaria 1981) | EWF, duh |
+| Whoa Nellie! Big Juicy Melons (Stern 2015) | as provided with table |
+
 
 
 
