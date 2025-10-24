@@ -1,5 +1,5 @@
 # Music and Pins ![](../images/nightlife_32dp_E3E3E3_FILL0_wght400_GRAD0_opsz40.png "Optional title")
-Rocking out while playing your pinball tables is the best. The script snippets in this directory will help you play random or sequential mp3's / ogg's stored in your `VisualPinball/Music` subfolders, with magna button start/stop/next track abilities, as you play a specific table. What are your favorite musical pairings? Here are some of mine.
+Rocking out while playing your pinball tables is the best. The script snippets in this directory will help you play random or sequential mp3's / ogg's stored in your `VisualPinball\Music` subfolders, with magna button start/stop/next track abilities, as you play a specific table. What are your favorite music pairings? Here are some of mine.
 
 | Table | Playlist |
 | --- | --- |
@@ -8,22 +8,21 @@ Rocking out while playing your pinball tables is the best. The script snippets i
 | Metallica - Premium Monsters (Stern 2013) | as provided with table (with upgraded altsound) |
 | Centaur (Bally 1981) | [Tool - Fear Inoculum](https://music.youtube.com/playlist?list=PLlzre6oa7gbHwqi5zWeRH9ZUd5D3Y5VTy&si=sMLDlJ7SPr9iixaz) This masterpiece table adaptation from UnclePaulie deserves a masterpiece post-apocalyptic soundtrack. |
 | Elvis (Stern 2004) | as provided with table (with upgraded altsound) |
-| Xenon (Bally 1980) | [RFTW Digital Display](https://music.youtube.com/playlist?list=PLlzre6oa7gbHHmp9eF1oJwwtE1RfzdG6A&si=fWCvXbJm5EpKhyaA) is a perfect pairing, plus many more bangers from this 80's r&b group! |
-| Gorgar (Williams 1979) | [Judas Priest Unleashed in the East Live in Japan '79](https://music.youtube.com/playlist?list=PLlzre6oa7gbFMbjzazRLpdphnkxyyxrDw&si=zucdj2IFqDrdlOdO) made for each other. From the same year, even! Kick it off with **"The Sinner"** on game start, it really sets the tone for the ***god of the devils*** theme, then randomize this list and rock forever! |
-| Warlok (Williams 1982) | Van Halen (randomize) this table has nothing to do with Van Halen but the Drakkor Jack Daniels clone table from a few years ago did (kinda) remind me of Eddie drinking it like gatorade and MH's guitar. This VPW version is such a fun table and should be in you top rotation so go with it! 
-| Voltan Esapes Cosmic Doom (Bally 1979) | This table and its era just scream ELO to me |
-| Rolling Stones (Bally 1980) | Rolling Stones vintage playlist to match the era
-| Truck Stop (Bally 1988) | CW McCall Greatest Hits irreverent? sure but what a great match for the table |
-| Playboy (Bally 1978) | The playlist as offered is amazing, I just add some Missing Persons to it |
-| Jungle Princess (Gottlieb 1977) | Duran Duran their hungry like the wolf video is this table come to life |
-| Led Zeppelin (Original 2020) | IDigStuff's playlist is spot on for this one |
-| Iron Maiden Legacy of the Beast VPW (Stern 2018) | It's so cool how they incorporated the tracks into this one |
-| Supersonic (Bally 1979) | Supertramp Breakfast in America (randomize) again, can't explain why but it just fits this era and backglass for me |
-| Lucky Luke (Original 2020) | I added to the original playlist with famous cowboy singers, and I think it's now elite, right down to the sad "when a cowboy trades his spurs for wings" after every game over. |
+| Xenon (Bally 1980) | [RFTW Digital Display](https://music.youtube.com/playlist?list=PLlzre6oa7gbHHmp9eF1oJwwtE1RfzdG6A&si=fWCvXbJm5EpKhyaA) is a perfect way to start this table, plus many more gems from this 80's r&b group! |
+| Gorgar (Williams 1979) | [Judas Priest Unleashed in the East Live in Japan '79](https://music.youtube.com/playlist?list=PLlzre6oa7gbFMbjzazRLpdphnkxyyxrDw&si=zucdj2IFqDrdlOdO) these two are made for each other. From the same year, even! Kick it off with **Sinner (Live)** on game start, it really sets the tone for the ***god of the devils*** theme, then randomize this list and rock forever! |
+| Warlok (Williams 1982) | [Van Halen Deep Cuts](https://music.youtube.com/playlist?list=PLlzre6oa7gbFeB0BcxwpHvY5ZW_AuDqLt&si=OFBWIWR4aRcOuaBs) (random) this table has nothing to do with Van Halen, but Davor's *Jack Daniels* Warlok re-skin from a few years ago did remind me of Eddie drinking JD like gatorade at the Boise tour stop in fall of '86, and of course Michael Anthony's bass skin. VPinWorkshop's Warlok  is such a clean table with great rules, it should be in your top rotation anyway, so just go with it and enjoy the VH! |
+| Voltan Esapes Cosmic Doom (Bally 1979) | This table, its backglass, and its era just scream [ELO](https://music.youtube.com/playlist?list=PLlzre6oa7gbGuSH9lBvMMGjoTdyC5f0bv&si=pKrkX63Qiq0LitEG) to me |
+| Rolling Stones (Bally 1980) | [Rolling Stones vintage playlist](https://music.youtube.com/playlist?list=PLlzre6oa7gbGjmwoaZsQ5O5oAKlxrn9SQ&si=r8izY5gRLrlAF9uL) to match the era
+| Truck Stop (Bally 1988) | [CW McCall Greatest Hits](https://music.youtube.com/playlist?list=PLlzre6oa7gbErr5iFZjhTW1lnIlk_E_Nl&si=8NX7jebqSYW_pVPp) dated? yep. irreverent? sure. but what a great match for the table. Long live ***Mavis Davis*** |
+| Playboy (Bally 1978) | The playlist as offered by HiRez and co is amazing, I just sprinkle some [Missing Persons](https://music.youtube.com/playlist?list=PLlzre6oa7gbGFApzuTNGPQSSEa80_ejmp&si=OwOFTbPnyF3_HMDV) into it |
+| Jungle Princess (Gottlieb 1977) | [Duran Duran](https://music.youtube.com/playlist?list=PLlzre6oa7gbEkPY0HISa6PMoVtzLdcGGe&si=GshrqdSj75vSoem5) sequential, their ***Hungry Like the Wolf*** music video is this table come to life |
+| Led Zeppelin (Original 2020) | IDigStuff's playlist as provided is spot on for this one |
+| Iron Maiden Legacy of the Beast VPW (Stern 2018) | It's so cool how VPW incorporated the track selections into this one |
+| Supersonic (Bally 1979) | [Supertramp](https://music.youtube.com/playlist?list=PLlzre6oa7gbE9oAK6uLq3vdkNufHMiHqN&si=QveajO08HfRNUKwR) (randomize) I can't explain but their music, this backglass, and this era of pinball just fit together for me |
+| Lucky Luke (Original 2020) | I extended the playlist with [famous cowboy ballads](https://music.youtube.com/playlist?list=PLlzre6oa7gbGrEfcCjt5QbVWwxUSjXO6O&si=qDEbaYOdZYn3dk38), and updated [`Sub m01_Timer`](LuckyLuke_sub_m01.vbs) in the table script, and I think this table is now elite, right down to the sad *"lemme tell you buddy, there's a faster gun"* after every game over. |
 | American Graffiti (Original 2024) | download the playlist from VPUniverse altsound section, it's amazing how they incorporated the jukebox feel into this one |
-| Cosmic Gunfight (Williams 1982) | Steve Miller Band ("Space Cowboy" then random) IYKYK
-| Iron Maiden -Virtual Time- (Original 2020) | Isecond of 3 IM tables in this list, this one is great with prime IM albums |
-| Dolly Parton (Bally 1979) | My list of classic Dolly for this one |
+| Cosmic Gunfight (Williams 1982) | [Steve Miller Band](https://music.youtube.com/playlist?list=PLlzre6oa7gbHyDuZHYkO58pCGGMZ6gSfw&si=zNvc_AbyPU8XauZP) *"The Joker"* of course to start it, then random SMB greatest hits |
+| Dolly Parton (Bally 1979) | favorites from [Essential Dolly](https://music.youtube.com/playlist?list=PLlzre6oa7gbG69B8p2aXVaoK_S2Uc4iH0&si=lmvC4YSqIWWGd0_f) match this classic table perfectly |
 | Wizard! (Bally 1975) | The WHO would be obvious but that already has its own table. This backglass reminds me of Aldo Nova "Ball and Chain" and the whole album seems to fit for me. |
 | Cuphead PRO -Perdition Edition- (Original 2020) | yeah pretty much the whole Cuphead album slaps with this one |
 | Stardust ( Williams 1971) | this ultra lounge tracklist is a really nice pairing for cocktail hour |
