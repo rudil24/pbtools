@@ -27,8 +27,8 @@ Rocking out while playing your pinball tables is the best. The script snippets i
 | Cuphead PRO -Perdition Edition- (Original 2020) | yeah pretty much the whole [Cuphead album](https://music.youtube.com/playlist?list=OLAK5uy_kQEA6u7fhi0TwxhUI-uJlq4sceB9NZzB8&si=dyfy9_Kr_Z3RokGL) slaps with this one |
 | Stardust ( Williams 1971) | this [Ultra Lounge](https://music.youtube.com/playlist?list=PLlzre6oa7gbE0h-PO_a6Ei_zIqe_J5wRU&si=3rkYq_sXIK-A-agU) playlist is a really nice pairing for such a classic cocktail hour table |
 | Man-O-War (Original 2019) | as provided by table this NSFW-ish reskin of *Alien Poker (Williams 1980)* is really fun, and hard rockin' too. |
-| Viper (Stern 1981) | Judas Priest defenders of the faith era, of course start with Jawbreaker (deadly as the viper, peering from its coil...) |
-| Iron Maiden (Stern 1982) | love the pairing of this with Live Over Hammersmith (also from 1982,) a great live album, of course start with the titular track. |
+| Viper (Stern 1981) | [Judas Priest Defenders of the Faith era](https://music.youtube.com/playlist?list=PLlzre6oa7gbH6hkgBNwktmjL4KtHyCpnx&si=LhnOnyiYfSQwfXw8). Of course start with ***Jawbreaker*** *(deadly as the viper, peering from its coil...)* then randomize from there. I included a [Viper partial table script](Viper_snippet.vbs) to help you run music and the special rotator controller with your L/R Magna buttons on this table if you don't know how to do that already. |
+| Iron Maiden (Stern 1982) | absolutely love this table with [Beast Over Hammersmith (live)](https://music.youtube.com/playlist?list=PLlzre6oa7gbGNq0YKglz7BV8-itwLy8E8&si=q3-4E-kwXQ2IDyPN) (also from 1982,) a great live Iron Maiden album, of course start your table with the title track, and get a history lesson from Bruce :smiley: . |
 | Kiss (Bally 1979) | my list of Kiss Classics from that era |
 | Joker Poker -Smokey Blues Edition- (Gottlieb 1978) | great table by HiRez and great tracklist. I don't love the starting track so i replaced it with |
 | Motorhead (Original 2018) | the PuP of live videos is awesome! |
