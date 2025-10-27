@@ -29,10 +29,10 @@ Rocking out while playing your pinball tables is the best. The script snippets i
 | Man-O-War (Original 2019) | as provided by table this NSFW-ish reskin of *Alien Poker (Williams 1980)* is really fun, and hard rockin' too. |
 | Viper (Stern 1981) | [Judas Priest Defenders of the Faith era](https://music.youtube.com/playlist?list=PLlzre6oa7gbH6hkgBNwktmjL4KtHyCpnx&si=LhnOnyiYfSQwfXw8). Of course start with ***Jawbreaker*** *(deadly as the viper, peering from its coil...)* then randomize from there. I included a [Viper partial table script](Viper_snippet.vbs) to help you run music and the special rotator controller with your L/R Magna buttons on this table if you don't know how to do that already. |
 | Iron Maiden (Stern 1982) | absolutely love this table with [Beast Over Hammersmith (live)](https://music.youtube.com/playlist?list=PLlzre6oa7gbGNq0YKglz7BV8-itwLy8E8&si=q3-4E-kwXQ2IDyPN) (also from 1982,) a great live Iron Maiden album, of course start your table with the title track, and get a history lesson from Bruce :smiley: . |
-| Kiss (Bally 1979) | my list of Kiss Classics from that era |
-| Joker Poker -Smokey Blues Edition- (Gottlieb 1978) | great table by HiRez and great tracklist. I don't love the starting track so i replaced it with |
-| Motorhead (Original 2018) | the PuP of live videos is awesome! |
-| Magic (Stern 1979) | This one just sings RUSH period pieces like Rivendell to me. |
+| Kiss (Bally 1979) | my list of [Kiss Classics](https://music.youtube.com/playlist?list=PLlzre6oa7gbG84lpKPj2e7rHfaK2EZjJf&si=5Nm69joQ0M2rdIGM) from that era |
+| Joker Poker -Smokey Blues Edition- (Gottlieb 1978) | as provided with table. great table by HiRez and great tracklist. |
+| Motorhead (Original 2018) | the [PuP of live videos by Larouillas](https://vpuniverse.com/files/file/22159-mot%C3%B6rhead-pup-pack/) is truly awesome! |
+| Magic (Stern 1979) | This one just sings [RUSH period pieces](https://music.youtube.com/playlist?list=PLlzre6oa7gbEoU0gLlcN5L5xIN-Nwq1IC&si=Zf93manII36hAOiI) like *Rivendell* to me. |
 | Pinball Pool -Deluxe- (Gottlieb 1979) | Loverboy i dunno why it just fits the timing of the table |
 | Spirit of 76 (Gottlieb 1975) | EMUnderdogs fabulous upgrade of this table just deserved Hamilton tracks |
 | Capt. Fantastic and The Brown Dirt Cowboy (Bally 1976) | My list of period Elton John pieces |
